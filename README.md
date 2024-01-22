@@ -36,9 +36,11 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/YourUsername/EntertainmentApp.git
 
 2. **Install dependencies:**
+   ```bash
    npm install
 
 3. **Run the application:**
+   ```bash
    npm start
 
 
