@@ -14,27 +14,27 @@ const TrendingPage = () => {
 // Sample trending data
   const sampleTrending = [
     {
-      title: 'Inception',
-      releaseYear: '2010',
-      imageUrl: '/images/inception.jpg',
+      title: 'Kung Fu Panda 4',
+      releaseYear: '2024',
+      imageUrl: '/images/kung-fu-panda-4.png',
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {
-      title: 'Breaking Bad',
-      releaseYear: '2008',
-      imageUrl: '/images/breaking-bad.jpg',
+      title: 'Dune',
+      releaseYear: '2024',
+      imageUrl: '/images/Dune-part-2.jpg',
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {
-      title: 'The Shawshank',
-      releaseYear: '1994',
-      imageUrl: '/images/shawshank-redemption.jpg',
+      title: 'Godzilla x Kong',
+      releaseYear: '2024',
+      imageUrl: '/images/Godzila-kong-the-new-empire.jpg',
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {
       title: 'Stranger Things',
       releaseYear: '2016',
-      imageUrl: '/images/stranger-things.jpg',
+      imageUrl: '/images/Monster.jpg',
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {
@@ -44,9 +44,9 @@ const TrendingPage = () => {
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {
-      title: 'Friends',
-      releaseYear: '1994',
-      imageUrl: '/images/friends.jpg',
+      title: 'Kingdom of the Planet',
+      releaseYear: '2024',
+      imageUrl: '/images/Kingdom-of-the-planet-of-the-apes.jpg',
       videoUrl: '/images/Entertainment App Movie Video Sample.mp4',
     },
     {

@@ -28,7 +28,7 @@
   .login-btn,
   .create-profile-btn {
     width: 100%;
-    background-color: #38c1fc;
+    background-color: #2a9bccb1;
     color: white;
     padding: 12px;
     border: none;
@@ -39,7 +39,7 @@
   
   .login-btn:hover,
   .create-profile-btn:hover {
-    background-color: #00b1fd;
+    background-color: #149cd7cd;
     color: black;
   }
   
@@ -51,7 +51,7 @@
   }
   
   .create-account-link {
-    color: #007bff;
+    color: #007bffac;
     cursor: pointer;
     text-decoration: underline;
   }
